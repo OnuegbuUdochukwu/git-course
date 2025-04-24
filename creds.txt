@@ -1,2 +1,0 @@
-username = Oma2004
-password = 12345
